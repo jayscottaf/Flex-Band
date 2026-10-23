@@ -74,4 +74,4 @@ There is no database. On Vercel these lines are the record — filter runtime lo
 
 ## Product image
 
-`public/flexi-band-hero.png` is the only product image. The page references it as `/flexi-band-hero.png`, including the thumbnail in the reservation modal.
+`public/flexi-band-hero.png` is the product image rendered on the page and in the reservation modal (`/flexi-band-hero.png`). `public/flexi-band-hero-original.png` is the earlier reference render, kept in the repo and not shown on the site.
